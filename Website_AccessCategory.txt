@@ -1,0 +1,145 @@
+CategoryID,CategoryName,Description
+1,Homepage,Main landing page
+2,Product Pages,Individual product detail pages
+3,Cart,Shopping cart page
+4,Checkout,Checkout process pages
+5,Support,Customer support pages
+6,FAQ,Frequently Asked Questions pages
+7,Contact Us,Contact information pages
+8,About Us,Company information pages
+9,Blog,Company blog and news pages
+10,Reviews,Customer reviews and testimonials pages
+11,Search,Product search results pages
+12,Account,Customer account management pages
+13,Promotions,Promotional offers pages
+14,New Arrivals,Newly launched products pages
+15,Bestsellers,Top-selling products pages
+16,Clearance,Discounted and clearance items pages
+17,Events,Company events and webinars pages
+18,Store Locator,Physical store locator pages
+19,Newsletters,Email newsletters subscription pages
+20,Privacy Policy,Privacy policy and terms of service pages
+21,Knowledge Base,Articles and guides for product knowledge
+22,Comparison,Comparison tools for products
+23,User Reviews,User-generated reviews and ratings
+24,Video Tutorials,Instructional videos for products
+25,Customer Forums,Community forums for customer discussions
+26,Product Registration,Registration forms for product warranties
+27,Technical Support,Technical support resources and FAQs
+28,Online Orders,Management of online orders and status
+29,Return & Refund,Process for returns and refunds
+30,Subscription Management,Management of subscription services
+31,Account Settings,User account management settings
+32,Privacy Settings,Management of privacy and data settings
+33,Event Registration,Registration for events and webinars
+34,Mobile App,Features and downloads for mobile applications
+35,Accessibility,Tools for accessibility and ADA compliance
+36,Product Alerts,Alerts for product availability or updates
+37,Customization Options,Options for product customization
+38,Payment Options,Various payment methods accepted
+39,Shipping Information,Details about shipping policies
+40,Terms & Conditions,Legal terms and conditions for site usage
+41,Video Calls,Video conferencing and calls
+42,Webinars,Online seminars and webinars
+43,Podcasts,Audio podcasts and broadcasts
+44,Knowledge Sharing,Sharing of knowledge and information
+45,Data Analytics,Analytics tools for data analysis
+46,Cloud Services,Cloud-based services and solutions
+47,Virtual Reality Experiences,VR-based experiences and simulations
+48,Live Streaming,Real-time streaming of events and content
+49,Online Courses,E-learning courses and educational programs
+50,Subscription Services,Subscription-based content and services
+51,User Interface Design,Design and usability of user interfaces
+52,Digital Marketing,Strategies and tools for digital marketing
+53,Accessibility Tools,Tools for accessibility and inclusivity
+54,Interactive Tools,Tools for interactive user experiences
+55,Content Management,Systems for content creation and management
+56,Performance Optimization,Optimization tools for performance
+57,SEO Optimization,Search engine optimization strategies
+58,Data Security,Security measures for data protection
+59,User Experience Testing,Testing and improvement of user experiences
+60,Privacy Settings,Management of privacy preferences
+61,Live Chat,Real-time customer support chat
+62,Video Streaming,Streaming services for videos
+63,Online Banking,Internet banking services
+64,Digital Wallets,Digital payment wallets
+65,Smart Home Apps,Applications for smart home control
+66,Education Platforms,Online education and learning platforms
+67,Augmented Reality Apps,Apps utilizing AR technology
+68,Language Learning,Platforms for learning new languages
+69,Virtual Tours,Virtual tours of destinations and attractions
+70,Online Gaming,Internet-based gaming platforms
+71,Music Streaming,Streaming services for music
+72,Online Shopping,Internet-based retail shopping platforms
+73,Travel Booking,Online travel booking services
+74,Job Search Platforms,Websites for job searching and recruitment
+75,Home Improvement,DIY and home improvement resources
+76,Event Planning,Tools for planning events and gatherings
+77,Recipe Collections,Collections of recipes and cooking tips
+78,Weather Updates,Real-time weather information and forecasts
+79,Health & Wellness Apps,Apps for health and wellness management
+80,Online Communities,Virtual communities for sharing interests
+81,Virtual Reality Games,Immersive gaming experiences in VR
+82,Online Banking Services,Internet-based banking services
+83,Live Webcasts,Real-time webcasting and streaming events
+84,Personal Finance Management,Tools for managing personal finances
+85,Virtual Classrooms,Online classrooms and educational platforms
+86,AR Applications,Applications utilizing augmented reality technology
+87,Digital Art Galleries,Online galleries for digital artwork
+88,Virtual Reality Experiences,Interactive experiences using VR technology
+89,Online Forums,Internet-based discussion forums and communities
+90,Mobile Payment Solutions,Payment solutions for mobile devices
+91,Video Editing Tools,Software for editing and producing videos
+92,Online Retail Platforms,Internet-based platforms for retail shopping
+93,Travel Planning Tools,Online tools for planning trips and vacations
+94,Remote Healthcare Services,Telehealth and remote medical services
+95,Home Improvement Resources,DIY guides and resources for home improvement
+96,Recipe Sharing Platforms,Platforms for sharing and discovering recipes
+97,Weather Forecast Services,Online services for weather forecasts and updates
+98,Health & Fitness Apps,Applications for tracking health and fitness goals
+99,Online Gaming Communities,Communities and networks for online gamers
+100,Social Media Platforms,Social networking and communication platforms
+101,Online Forums,Discussion boards and community forums
+102,Video Streaming Platforms,Platforms for streaming videos and movies
+103,Online Shopping Sites,E-commerce websites for purchasing goods
+104,Travel Booking Services,Platforms for booking flights and accommodations
+105,Education Portals,Websites offering educational resources and courses
+106,Health & Wellness Apps,Applications for health tracking and fitness
+107,Job Search Platforms,Websites for job listings and career opportunities
+108,Social Networking Sites,Platforms for connecting with others online
+109,News and Media Websites,Sites providing news articles and media content
+110,Financial Management Tools,Tools for managing personal finances and investments
+111,Live Streaming Platforms,Platforms for live streaming events and broadcasts
+112,Food Delivery Services,Online platforms for ordering food and meal delivery
+113,Online Gaming Platforms,Websites offering online games and gaming communities
+114,Weather Forecast Services,Platforms providing weather updates and forecasts
+115,Music Streaming Services,Streaming platforms for listening to music and podcasts
+116,Virtual Reality Experiences,VR-based platforms for immersive experiences
+117,Online Banking Services,Banking services accessible via the internet
+118,Video Conferencing Tools,Tools for conducting video conferences and meetings
+119,Digital Art Platforms,Websites for showcasing and selling digital artwork
+120,Language Learning Apps,Applications for learning new languages online
+121,Online Forums,Discussion platforms for various topics
+122,Video Streaming Platforms,Services for streaming videos and movies
+123,Online Shopping Sites,E-commerce platforms for online shopping
+124,Travel Booking Services,Platforms for booking travel and accommodations
+125,Education Portals,Websites offering educational resources
+126,Health & Wellness Apps,Applications for health and fitness tracking
+127,Job Search Platforms,Online platforms for job hunting and recruitment
+128,Social Networking Sites,Platforms for social interaction and networking
+129,News and Media Websites,Sites providing news and media content
+130,Financial Management Tools,Tools for managing personal finances
+131,Live Streaming Platforms,Platforms for live streaming events
+132,Food Delivery Services,Online platforms for food delivery
+133,Online Gaming Platforms,Websites offering online gaming experiences
+134,Weather Forecast Services,Platforms providing weather forecasts
+135,Music Streaming Services,Services for streaming music and podcasts
+136,Virtual Reality Experiences,Platforms offering VR-based experiences
+137,Online Banking Services,Banking services accessible online
+138,Video Conferencing Tools,Tools for conducting video conferences
+139,Digital Art Platforms,Platforms for showcasing digital art
+140,Language Learning Apps,Applications for learning languages online
+
+
+
+

@@ -1,0 +1,124 @@
+ProductGroupID,GroupName,Description
+1,Phones,Mobile phones and accessories
+2,Laptops,Laptops and related products
+3,Tablets,Tablets and accessories
+4,Headphones,Headphones and earphones
+5,Smartwatches,Smartwatches and wearable devices
+6,Phone Cases,Protective and stylish phone cases
+7,Laptop Bags,Laptop bags and carriers
+8,Tablet Covers,Protective and stylish tablet covers
+9,Earbuds,Wireless earbuds and accessories
+10,Fitness Trackers,Fitness tracking devices
+11,Chargers,Chargers and power accessories
+12,Cables,Data and charging cables
+13,Speakers,Portable and home speakers
+14,Camera Accessories,Camera and video accessories
+15,Memory Cards,Storage and memory cards
+16,Screen Protectors,Protective screen covers
+17,Batteries,Rechargeable batteries and power packs
+18,Keyboards,Wireless and wired keyboards
+19,Mice,Wireless and wired mice
+20,Monitors,Computer monitors and accessories
+21,Smart Appliances,Smart home appliances and devices
+22,Smart TVs,Internet-connected television sets
+23,Gaming Consoles,Video game consoles and accessories
+24,Audio Systems,Home audio systems and speakers
+25,Printers,Printers and printing accessories
+26,Cameras,Digital cameras and photography accessories
+27,External Storage,External hard drives and storage solutions
+28,Networking Devices,Networking equipment and devices
+29,Software,Computer software and applications
+30,Office Equipment,Office electronics and supplies
+31,Projectors,Video projectors and presentation equipment
+32,GPS Devices,Global Positioning System devices
+33,Wearables,Various wearable technology devices
+34,Virtual Reality,VR headsets and accessories
+35,Healthcare Devices,Health monitoring and medical devices
+36,Smart Lighting,Connected lighting solutions
+37,Home Security,Home security and surveillance systems
+38,Robotics,Robotic devices and automation tools
+39,Drones,Unmanned aerial vehicles (UAVs)
+40,Accessories,General electronics accessories
+41,Home Appliances,Household electronic appliances
+42,Smart Speakers,Voice-controlled smart speakers
+43,Car Electronics,Electronics for vehicles
+44,Smartwatches Accessories,Accessories for smartwatches
+45,Gaming Accessories,Accessories for gaming consoles
+46,Photography Accessories,Accessories for cameras
+47,Storage Devices,Data storage solutions
+48,Network Security Devices,Devices for network security
+49,Graphic Design Software,Software for graphic design
+50,Office Supplies,Stationery and office essentials
+51,Presentation Equipment,Equipment for presentations
+52,Outdoor Gear Electronics,Electronics for outdoor activities
+53,Health Monitoring Devices,Devices for health monitoring
+54,Smart Home Security,Security systems for smart homes
+55,Home Automation,Automation systems for homes
+56,Robot Vacuum Cleaners,Automated vacuum cleaning robots
+57,Drone Accessories,Accessories for drones
+58,Mobile Accessories,Accessories for mobile devices
+59,Computer Components,Hardware components for computers
+60,Gaming Chairs,Comfortable chairs for gaming setups
+61,Smart Watches,Various models of smart watches
+62,Smart Glasses,Augmented reality glasses
+63,Smart Home Devices,Devices for smart home automation
+64,Wireless Speakers,Bluetooth and Wi-Fi speakers
+65,Security Cameras,Indoor and outdoor security cameras
+66,Portable Chargers,Power banks and portable chargers
+67,Bluetooth Headsets,Wireless headsets and earphones
+68,Activity Trackers,Fitness and activity tracking devices
+69,Bluetooth Keyboards,Wireless keyboards for computers
+70,Wireless Mouse,Wireless mice for computers
+71,USB Flash Drives,Portable USB storage devices
+72,Wireless Routers,Wi-Fi routers and networking devices
+73,Smart Thermostats,Connected thermostats for home climate control
+74,Robot Lawn Mowers,Autonomous lawn mowing robots
+75,Smart Locks,Keyless entry systems for homes
+76,Home Projectors,Projectors for home entertainment
+77,Home Automation Hubs,Centralized hubs for smart home control
+78,Smart Refrigerators,Refrigerators with smart features
+79,Smart Washing Machines,Connected washing machines
+80,Smart Lighting Systems,Automated lighting systems
+81,Smart HVAC Systems,Smart heating, ventilation, and air conditioning systems
+82,Smart Furniture,Smart furniture with integrated technology
+83,Home Security Systems,Comprehensive home security systems
+84,Smart Kitchen Appliances,Connected appliances for the kitchen
+85,Digital Health Devices,Devices for digital health monitoring
+86,Smart Mirrors,Mirrors with integrated smart features
+87,Smart Doorbells,Video doorbells with smart functionalities
+88,Home Entertainment Systems,Integrated home entertainment solutions
+89,Smart Pet Devices,Devices for monitoring and caring for pets
+90,Smart Beds,Adjustable beds with smart controls
+91,Smart Glasses,Smart glasses for augmented reality applications
+92,3D Printers,Desktop 3D printers for prototyping and production
+93,Virtual Reality Accessories,Accessories for virtual reality setups
+94,Electric Vehicles,Electric cars and electric mobility solutions
+95,Solar Panels,Solar energy systems for residential and commercial use
+96,Smart Watches,Advanced smartwatches with fitness tracking
+97,Smart Speakers,Wireless speakers with voice assistant integration
+98,Robot Vacuums,Robotic vacuum cleaners for automated cleaning
+99,Security Cameras,Outdoor and indoor security camera systems
+100,Smart Thermostats,Programmable thermostats for energy efficiency
+101,Smart TVs,Latest models of smart televisions
+102,Smart Headphones,Wireless headphones with smart features
+103,Smart Watches,Advanced wearable smartwatches
+104,Smart Appliances,Connected home appliances
+105,Robot Vacuum Cleaners,Autonomous cleaning robots
+106,Security Cameras,Indoor and outdoor surveillance cameras
+107,Smart Home Hubs,Control centers for smart home devices
+108,Home Automation Systems,Automated systems for home control
+109,Smart Lighting,Synchronized and programmable lighting
+110,Smart Locks,Keyless entry systems for homes
+111,Wireless Speakers,Bluetooth and Wi-Fi enabled speakers
+112,Virtual Reality Headsets,Immersive VR headsets
+113,AI-Powered Assistants,Virtual assistants with AI capabilities
+114,Fitness Trackers,Devices for tracking fitness metrics
+115,Bluetooth Earbuds,Wireless earbuds with Bluetooth connectivity
+116,Portable Projectors,Compact projectors for presentations
+117,Network Attached Storage (NAS),Storage solutions for networks
+118,Smart Garden Devices,Technologies for smart gardening
+119,Smart Mirrors,Mirrors with integrated smart features
+120,Smart Pens,Digital pens for note-taking and drawing
+
+
+
